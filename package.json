@@ -9,6 +9,8 @@
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
+    "@nrwl/devkit": "^15.4.2",
+    "@nrwl/js": "^15.4.2",
     "@nrwl/nx-cloud": "latest",
     "husky": "^8.0.2",
     "nx": "15.4.2",
